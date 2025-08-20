@@ -23,5 +23,5 @@ body{
 img {
   <<!nav>>background-image<<!/nav>>: url("https://upload.wikimedia.org/wikipedia/pt/a/ad/Blizzard_of_Ozz.jpg");
   height: 151px;
-  border-radius::after; 50%;
+  border-radius::after 50%;
 }
