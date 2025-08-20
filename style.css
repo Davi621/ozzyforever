@@ -20,3 +20,7 @@ p{
 body{
     background-color:black;
 }
+.img{
+    height: 151px;
+    border-top-right-radius: 50%;
+}
